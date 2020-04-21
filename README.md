@@ -1,4 +1,4 @@
-# jupyter-nbrequirements &nbsp;[![License](https://img.shields.io/github/license/mashape/apistatus.svg?label=License)](https://github.com/CermakM/jupyter-nbrequirements/blob/master/LICENSE)
+# jupyter-nbrequirements &nbsp;[![License](https://img.shields.io/github/license/mashape/apistatus.svg?label=License)](https://github.com/thoth-station/jupyter-nbrequirements/blob/master/LICENSE)
 
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=CermakM/jupyter-nbrequirements)](https://dependabot.com)
 [![Node CI](https://github.com/cermakm/jupyter-nbrequirements/workflows/Node%20CI/badge.svg)](https://github.com/cermakm/jupyter-nbrequirements/actions) &nbsp;
